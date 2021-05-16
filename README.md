@@ -19,5 +19,5 @@ Items 1-4 can be entered as summarized transactions.
 Items 5-6 can be imported into tax software accepting txf files.
 
 This does not support any other types of transactions except those
-mentioned above and will likely produce erroneous result if used on
+mentioned above and will likely produce erroneous results if used on
 a 1099-B containing other types of transactions.
